@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 pesan di cabang london mengatakan, the winner is meriam london. This is arsenal
+=======
+Pucuk dingin bos
+>>>>>>> CabangLiverpool
